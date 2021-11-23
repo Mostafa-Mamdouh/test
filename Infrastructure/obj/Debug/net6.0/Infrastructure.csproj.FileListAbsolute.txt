@@ -1,0 +1,17 @@
+E:\Courses\DafaterTask\Applicants\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+E:\Courses\DafaterTask\Applicants\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+E:\Courses\DafaterTask\Applicants\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+E:\Courses\DafaterTask\Applicants\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+E:\Courses\DafaterTask\Applicants\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+E:\Courses\DafaterTask\Applicants\Infrastructure\bin\Debug\net6.0\Core.dll
+E:\Courses\DafaterTask\Applicants\Infrastructure\bin\Debug\net6.0\Core.pdb
+E:\Courses\DafaterTask\Applicants\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Courses\DafaterTask\Applicants\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\DafaterTask\Applicants\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Courses\DafaterTask\Applicants\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+E:\Courses\DafaterTask\Applicants\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Courses\DafaterTask\Applicants\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+E:\Courses\DafaterTask\Applicants\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+E:\Courses\DafaterTask\Applicants\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+E:\Courses\DafaterTask\Applicants\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+E:\Courses\DafaterTask\Applicants\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache

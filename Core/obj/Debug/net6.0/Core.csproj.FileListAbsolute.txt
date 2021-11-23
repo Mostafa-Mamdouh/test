@@ -1,0 +1,12 @@
+E:\Courses\DafaterTask\Applicants\Core\bin\Debug\net6.0\Core.deps.json
+E:\Courses\DafaterTask\Applicants\Core\bin\Debug\net6.0\Core.dll
+E:\Courses\DafaterTask\Applicants\Core\bin\Debug\net6.0\ref\Core.dll
+E:\Courses\DafaterTask\Applicants\Core\bin\Debug\net6.0\Core.pdb
+E:\Courses\DafaterTask\Applicants\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+E:\Courses\DafaterTask\Applicants\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\DafaterTask\Applicants\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+E:\Courses\DafaterTask\Applicants\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+E:\Courses\DafaterTask\Applicants\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+E:\Courses\DafaterTask\Applicants\Core\obj\Debug\net6.0\Core.dll
+E:\Courses\DafaterTask\Applicants\Core\obj\Debug\net6.0\ref\Core.dll
+E:\Courses\DafaterTask\Applicants\Core\obj\Debug\net6.0\Core.pdb
